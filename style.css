@@ -1,0 +1,29 @@
+.button {
+	padding: 30px;
+	color: red;
+	background-color: pink;
+	border-bottom: double;
+	text-align: blue;
+
+}
+
+p {
+	color: red;
+}
+
+button {
+	color: black;
+	background-color: pink;
+	padding: 10px;
+
+}
+
+li {
+    display: inline;
+    text-align: center;
+}
+
+body {
+    background-image: url("http://gph.to/1HKOPE8");
+    background-color: #cccccc;
+}
